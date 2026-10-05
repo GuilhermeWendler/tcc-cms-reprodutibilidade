@@ -1,0 +1,5 @@
+n_merge=577
+rf_na_rate=0.2340
+n_rf_classified=442
+concordancia_global_rfClassified=0.9208
+ssp_unclassified_rate_on_rfClassified=0.0226

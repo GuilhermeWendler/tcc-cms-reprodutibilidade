@@ -1,0 +1,4 @@
+n_merge=577
+rf_na_rate=0.2340
+n_rf_classified=442
+concordancia_global_rfClassified=0.9367

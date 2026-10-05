@@ -1,0 +1,24 @@
+# dados grandes
+data/TCGACRC_expression-merged.tsv
+
+# pacote local
+CMSclassifier/
+
+# ambientes
+.venv/
+venv/
+env/
+renv/
+
+# caches
+__pycache__/
+.ipynb_checkpoints/
+.Rhistory
+.RData
+
+# saídas podem ser versionadas seletivamente; remova esta linha se quiser incluir todas
+# outputs/
+
+CMSclassifier
+
+CMSclassifier

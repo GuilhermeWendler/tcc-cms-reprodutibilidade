@@ -1,0 +1,7 @@
+=== AMBIENTE PYTHON DA ANÁLISE ===
+Python: 3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]
+Executável: /home/guilherme/tcc-ml-cms/.venv/bin/python
+Sistema: Linux-7.0.0-30-generic-x86_64-with-glibc2.39
+
+numpy: 2.3.0
+pandas: 2.3.0

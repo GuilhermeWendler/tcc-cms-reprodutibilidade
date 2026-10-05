@@ -1,0 +1,14 @@
+=== AMBIENTE R DA ANÁLISE ===
+
+R: R version 4.3.3 (2024-02-29)
+Sistema: x86_64-pc-linux-gnu
+SO: Linux 7.0.0-30-generic
+CMSclassifier: 1.0.0
+
+=== VERSÕES DOS PACOTES ===
+randomForest : 4.7-1.2
+AnnotationDbi : 1.64.1
+org.Hs.eg.db : 3.18.0
+BiocManager : 1.30.26
+
+Running under: Ubuntu 24.04.3 LTS

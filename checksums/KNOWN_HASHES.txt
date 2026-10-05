@@ -1,0 +1,17 @@
+TCGACRC_expression-merged.tsv
+Synapse ID: syn2325328
+Version: 1
+DOI: 10.7303/syn2325328.1
+MD5: 48335693339d54eceef4b57274cf8b75
+SHA-256 da cópia usada: e9fc48ae1dcd2fe15e23eec6693919441bf207a175fcd1d67bc24de462088624
+
+CMSclassifier_1.0.0.tar.gz
+SHA-256: 69c37741a4d88a39399c2ce9cea15ce32d14effe9d119ee43859406651721fb1
+
+CMSclassifier/data/model.rda
+MD5: 1bc516e254a57d38c04fa82bd7427bd7
+SHA-256: d0a43aea4f682719d10f4f80054f28134f6715af6b1f2b8a6a081af0b130b756
+
+CMSclassifier/data/centroids.RData
+MD5: f8216db1e380d98836dfc6928fdcd177
+SHA-256: b03b9663cbf23a989aed822c75a8fe26915b629f26c7d57a33fb90fe4ef50fb3
